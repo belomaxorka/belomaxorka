@@ -5,6 +5,9 @@
 ### 🧒 About me:
 * 👂 My name is Roman Kelesidis
 * 🔭 I’m currently working at home 😂
+* 👀 I'm interested in you
+* 🌱 I'm currently learning to love you
+* 💞️ I'm looking to collaborate on open-source
 * 📫 How to reach me: [Telegram](http://t.me/belomaxorka), [Email](mailto:roman25052006.kelesh@gmail.com)
 
 <hr>
