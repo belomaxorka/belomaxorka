@@ -1,6 +1,6 @@
 ![Belomaxorka](profile-cover.png)
 
-<p align="center" dir="auto">Hi there 👋☮</p>
+<h3 align="center" dir="auto">Hi there 👋☮</h3>
 
 ![Separator](seperator.gif)
 
