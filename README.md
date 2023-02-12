@@ -2,6 +2,8 @@
 
 <h3 align="center" dir="auto">Hi there 👋☮</h3>
 
+![](https://komarev.com/ghpvc/?username=belomaxorka&style=for-the-badge)
+
 <hr>
 
 ### 🧒 About me:
