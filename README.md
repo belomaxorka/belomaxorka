@@ -1,6 +1,8 @@
 ![Belomaxorka](profile-cover.png)
 
-# Hi there 👋
+<p align="center" dir="auto">Hi there 👋☮</p>
+
+![Separator](seperator.gif)
 
 ### 🧒 About me:
 * 👂 My name is Roman Kelesidis (aka: [@belomaxorka](https://github.com/belomaxorka), corew)
