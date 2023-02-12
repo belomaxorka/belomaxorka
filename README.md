@@ -11,7 +11,7 @@
 * ✨ This is my official website: [https://belomaxorka.github.io/](https://belomaxorka.github.io/)
 * 📫 How to reach me: [Telegram](https://t.me/belomaxorka), [Email](mailto:roman25052006.kelesh@gmail.com)
 
-![Separator](separator.gif)
+![Separator](seperator.gif)
 
 ### 🛠 Languages and tools:
 
@@ -28,7 +28,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/>
 </div>
 
-![Separator](separator.gif)
+![Separator](seperator.gif)
 
 <details name="sponsor">
   <summary>Github Stats</summary><br/>
