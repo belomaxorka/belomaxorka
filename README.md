@@ -2,7 +2,7 @@
 
 <h3 align="center" dir="auto">Hi there 👋☮</h3>
 
-![Separator](seperator.gif)
+<hr>
 
 ### 🧒 About me:
 * 👂 My name is Roman Kelesidis (aka: [@belomaxorka](https://github.com/belomaxorka), corew)
@@ -14,7 +14,7 @@
 * ✨ This is my official website: [https://belomaxorka.github.io/](https://belomaxorka.github.io/)
 * 📫 How to reach me: [Telegram](https://t.me/belomaxorka), [Email](mailto:roman25052006.kelesh@gmail.com)
 
-![Separator](seperator.gif)
+<hr>
 
 ### 🛠 Languages and tools:
 
@@ -31,7 +31,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/>
 </div>
 
-![Separator](seperator.gif)
+<hr>
 
 <details>
   <summary>Github Stats</summary><br/>
