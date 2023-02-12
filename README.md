@@ -39,6 +39,7 @@
 <details>
   <summary>Github Stats</summary><br/>
   
+  <div id="stat" align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="412.5" src="https://github-readme-stats.vercel.app/api?username=belomaxorka&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=false&count_private=true">
   </a>
@@ -52,4 +53,5 @@
   </a>
   
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=belomaxorka&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  </div>
 </details>
