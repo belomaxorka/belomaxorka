@@ -6,6 +6,17 @@
 
 <hr>
 
+```php
+while ($this->proccessLifeIsRunning) {
+    $this->getUp();
+    $this->coding();
+    $this->eating();
+    $this->sleep(32400);
+}
+```
+
+<hr>
+
 ### 🧒 About me:
 * 👂 My name is Roman Kelesidis (aka: [@belomaxorka](https://github.com/belomaxorka), corew)
 * 🌎 I speak Russian
