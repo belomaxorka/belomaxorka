@@ -7,6 +7,7 @@
 ```php
 while ($this->proccessLifeIsRunning) {
     $this->getUp();
+    $this->eating();
     $this->coding();
     $this->eating();
     $this->sleep(32400);
