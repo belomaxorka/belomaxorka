@@ -4,8 +4,6 @@
 
 ![](https://komarev.com/ghpvc/?username=belomaxorka&style=for-the-badge)
 
-<hr>
-
 ```php
 while ($this->proccessLifeIsRunning) {
     $this->getUp();
