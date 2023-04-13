@@ -1,6 +1,6 @@
 ![Belomaxorka](profile-cover.png)
 
-<h2 align="center" dir="auto">Hi there 👋☮</h2>
+<h2 align="center" dir="auto">Hi there! 👋😄</h2>
 
 ![](https://komarev.com/ghpvc/?username=belomaxorka&style=for-the-badge)
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
