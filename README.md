@@ -20,7 +20,7 @@ while ($this->proccessLifeIsRunning) {
 ### 🧒 About me:
 * 👂 My name is Roman Kelesidis (aka: [@belomaxorka](https://github.com/belomaxorka), corew)
 * 🌎 I speak Russian
-* 🎉 16 y.o developer
+* 🎉 17 y.o developer
 * 🔭 I’m currently working at home 😂
 * 👀 I'm interested in you
 * 🌱 I'm currently learning to love you
