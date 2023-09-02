@@ -1,9 +1,8 @@
-<h2>Hi there! 👋😄</h2>
-<p>🤍💙🤍</p>
+<hr>
 
-![](https://komarev.com/ghpvc/?username=belomaxorka&style=for-the-badge)
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
-[![Russian Warship Go Fuck Yourself](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/RussianWarship.svg)](https://stand-with-ukraine.pp.ua)
+
+<hr>
 
 ```php
 while ($this->proccessLifeIsRunning) {
@@ -18,6 +17,7 @@ while ($this->proccessLifeIsRunning) {
 <hr>
 
 ### 🧒 About me:
+
 * 👂 My name is Roman Kelesidis (aka: [@belomaxorka](https://github.com/belomaxorka), corew)
 * 🌎 I speak Russian
 * 🎉 17 y.o developer
@@ -53,20 +53,17 @@ while ($this->proccessLifeIsRunning) {
 
 <details>
   <summary>Github Stats</summary><br/>
-  
+
   <div id="stat" align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="412.5" src="https://github-readme-stats.vercel.app/api?username=belomaxorka&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=false&count_private=true">
-  </a>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="412.5" src="https://github-readme-streak-stats.herokuapp.com/?user=belomaxorka&theme=tokyonight&hide_border=true">
-  </a>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="412.5" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belomaxorka&layout=compact&theme=tokyonight&langs_count=10&hide_border=true&include_all_commits=true&card_width=320&hide=jupyter%20notebook,markdown,svg">
-  </a>
-  
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=belomaxorka&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img width="412.5" src="https://github-readme-stats.vercel.app/api?username=belomaxorka&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=false&count_private=true">
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img width="412.5" src="https://github-readme-streak-stats.herokuapp.com/?user=belomaxorka&theme=tokyonight&hide_border=true">
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img width="412.5" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belomaxorka&layout=compact&theme=tokyonight&langs_count=10&hide_border=true&include_all_commits=true&card_width=320&hide=jupyter%20notebook,markdown,svg">
+    </a>
+    [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=belomaxorka&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
   </div>
 </details>
