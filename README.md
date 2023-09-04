@@ -51,7 +51,7 @@ while ($this->proccessLifeIsRunning) {
 <hr>
 
 <details>
-  <summary>Github Stats</summary><br/>
+  <summary>📈 Github Stats</summary><br/>
 
   <div id="stat" align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -66,4 +66,10 @@ while ($this->proccessLifeIsRunning) {
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=belomaxorka&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
   </div>
+</details>
+
+<details>
+  <summary>🏆 Github Profile Trophy</summary><br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=belomaxorka)](https://github.com/ryo-ma/github-profile-trophy)
 </details>
