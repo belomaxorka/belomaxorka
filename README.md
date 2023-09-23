@@ -25,7 +25,18 @@ while ($this->proccessLifeIsRunning) {
 * 💞️ I'm looking to collaborate on open-source
 * ❤ Linux
 * ✨ This is my official website: [https://belomaxorka.github.io/](https://belomaxorka.github.io/)
-* 📫 How to reach me: [Telegram](https://t.me/belomaxorka), [Email](mailto:roman25052006.kelesh@gmail.com)
+
+<hr>
+
+### 📫 How to reach me:
+
+<a href="mailto:roman25052006.kelesh@gmail.com" rel="nofollow">
+
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+</a>
+<a href="https://t.me/belomaxorka" rel="nofollow">
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+</a>
 
 <hr>
 
