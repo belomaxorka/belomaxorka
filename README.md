@@ -20,10 +20,10 @@ while ($this->proccessLifeIsRunning) {
 * 👂 My name is Roman Kelesidis
 * 🌎 I speak Russian (Native), English
 * 🎉 17 y.o developer
-* 🔭 I’m currently working at home 😂
-* 👀 I'm interested in you
-* 🌱 I'm currently learning to love you
+* 🔭 I’m currently working at home 💀
+* 📖 I love learning something new
 * 💞️ I'm looking to collaborate on open-source
+* ❤ Linux
 * ✨ This is my official website: [https://belomaxorka.github.io/](https://belomaxorka.github.io/)
 * 📫 How to reach me: [Telegram](https://t.me/belomaxorka), [Email](mailto:roman25052006.kelesh@gmail.com)
 
@@ -51,7 +51,7 @@ while ($this->proccessLifeIsRunning) {
 <hr>
 
 <details>
-  <summary>📈 Github Stats</summary><br/>
+  <summary>📈 GitHub Stats</summary><br/>
 
   <div align="center">
 
@@ -62,7 +62,7 @@ while ($this->proccessLifeIsRunning) {
 </details>
 
 <details>
-  <summary>🏆 Github Profile Trophy</summary><br/>
+  <summary>🏆 GitHub Profile Trophy</summary><br/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=belomaxorka)](https://github.com/ryo-ma/github-profile-trophy)
 </details>
