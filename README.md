@@ -19,7 +19,7 @@ while ($this->proccessLifeIsRunning) {
 
 * 👂 My name is Roman Kelesidis
 * 🌎 I speak Russian (Native), English
-* 🎉 17 y.o developer
+* 🎉 17 y.o developer (25.05.2006)
 * 🔭 I’m currently working at home 💀
 * 📖 I love learning something new
 * 💞️ I'm looking to collaborate on open-source
@@ -49,9 +49,6 @@ while ($this->proccessLifeIsRunning) {
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" title="Gulp" alt="Gulp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-plain-wordmark.svg" title="PHPStorm" alt="PHPStorm" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
 </div>
 
 <hr>
