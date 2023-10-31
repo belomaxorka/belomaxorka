@@ -21,7 +21,7 @@ while ($this->proccessLifeIsRunning) {
 * 🌎 I speak Russian (Native), English
 * 🌠 I was born in Greece
 * 🎉 17 y.o developer (25.05.2006)
-* 🔭 I’m currently working at home 💀
+* 🔭 I’m currently working at home
 * 📖 I love learning something new
 * 💞️ I'm looking to collaborate on open-source
 
