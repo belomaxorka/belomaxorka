@@ -19,12 +19,11 @@ while ($this->proccessLifeIsRunning) {
 
 * 👂 My name is Roman Kelesidis
 * 🌎 I speak Russian (Native), English
+* 🌠 I was born in Greece
 * 🎉 17 y.o developer (25.05.2006)
 * 🔭 I’m currently working at home 💀
 * 📖 I love learning something new
 * 💞️ I'm looking to collaborate on open-source
-* ❤ Linux
-* ✨ This is my official website: [https://belomaxorka.github.io/](https://belomaxorka.github.io/)
 
 <hr>
 
