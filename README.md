@@ -1,7 +1,6 @@
 ![Belomaxorka](header.png)
 
 ![](https://komarev.com/ghpvc/?username=belomaxorka&color=blue)
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
 
 ```php
 while ($this->proccessLifeIsRunning) {
