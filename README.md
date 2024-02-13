@@ -2,16 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=belomaxorka&color=blue)
 
-```php
-while ($this->proccessLifeIsRunning) {
-    $this->getUp();
-    $this->eating();
-    $this->coding();
-    $this->eating();
-    $this->sleep(32400);
-}
-```
-
 <hr>
 
 ### 🧒 About me:
