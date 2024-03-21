@@ -1,6 +1,6 @@
 <div align="center">
 
-![Belomaxorka](header.png)
+![Belomaxorka](3741f01e25ee2b6347a734ed53bc86a1.gif)
 
 ![](https://komarev.com/ghpvc/?username=belomaxorka&style=for-the-badge)
 
