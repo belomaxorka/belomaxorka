@@ -2,7 +2,7 @@
 
 ![Belomaxorka](3741f01e25ee2b6347a734ed53bc86a1.gif)
 
-[![GitHub followers](https://img.shields.io/github/followers/belomaxorka?logo=GitHub&style=for-the-badge)](https://github.com/belomaxorka) &nbsp; [![GitHub profile views](https://komarev.com/ghpvc/?username=belomaxorka&style=for-the-badge)](https://github.com/belomaxorka)
+[![GitHub followers](https://img.shields.io/github/followers/belomaxorka?style=for-the-badge)](https://github.com/belomaxorka) &nbsp; [![GitHub profile views](https://komarev.com/ghpvc/?username=belomaxorka&style=for-the-badge)](https://github.com/belomaxorka)
 
 </div>
 
