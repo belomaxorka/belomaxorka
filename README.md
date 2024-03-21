@@ -1,6 +1,10 @@
+<div align="center">
+
 ![Belomaxorka](header.png)
 
 ![](https://komarev.com/ghpvc/?username=belomaxorka&style=for-the-badge)
+
+</div>
 
 <hr>
 
