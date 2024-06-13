@@ -8,15 +8,6 @@
 
 <hr>
 
-### 🧒 About me:
-
-* 👂 My name is Roman Kelesidis
-* 🌎 I speak Russian (Native), English
-* 🌠 I was born in Greece
-* 🎉 17 y.o developer (25.05.2006)
-
-<hr>
-
 ### 📫 How to reach me:
 
 <a href="mailto:roman25052006.kelesh@gmail.com" rel="nofollow">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
