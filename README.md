@@ -1,3 +1,6 @@
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <details>
   <summary>📈 GitHub Stats</summary><br/>
 
