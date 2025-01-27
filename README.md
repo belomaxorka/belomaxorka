@@ -1,7 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-60-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)
 
@@ -44,13 +42,14 @@ Sunday                   2390 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     13 mins             █████████████████████░░░░   85.00 % 
+Markdown                 2 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PhpStorm                 15 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  15 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -66,7 +65,7 @@ Pawn                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/01/2025 18:03:20 UTC
+ Last Updated on 27/01/2025 00:55:19 UTC
 <!--END_SECTION:waka-->
 
 <details>
