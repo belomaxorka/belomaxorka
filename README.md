@@ -47,7 +47,7 @@
 <h3>⚡ Fun Facts</h3>
 <ul>
   <li>💻 5 years in web development</li>
-  <li>🎵 Vibe coding enthusiast</li>
+  <li>😜 Vibe coding enthusiast</li>
   <li>☕ Powered by tea</li>
   <li>⌨️ Coding is not a job, it's a way of life</li>
 </ul>
