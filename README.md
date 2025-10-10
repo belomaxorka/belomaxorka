@@ -38,6 +38,12 @@
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 </p>
 
+<h3>🔭 What I'm working on</h3>
+<ul>
+  <li>Building scalable web applications with Laravel + Inertia.js + Vue.js ❤️</li>
+  <li>Maintaining TorrentPier and enhancing its architecture</li>
+</ul>
+
 <details>
   <summary>📊 GitHub Stats</summary><br/>
   <p>
