@@ -44,15 +44,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=belomaxorka&theme=dark" />
 </p>
 
-<h3>🏆 GitHub Trophies</h3>
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=belomaxorka&theme=darkhub&row=1" />
-</p>
+<details>
+  <summary>🏆 GitHub Trophies</summary><br/>
+  <p><img src="https://github-profile-trophy.vercel.app/?username=belomaxorka&theme=darkhub&row=1" /></p>
+</details>
 
-<h3>📈 Contribution Graph</h3>
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=belomaxorka&theme=github-dark" />
-</p>
+<details>
+  <summary>📈 Contribution Graph</summary><br/>
+  <p><img src="https://github-readme-activity-graph.vercel.app/graph?username=belomaxorka&theme=github-dark" /></p>
+</details>
 
 <details>
   <summary>🎶 Last.fm Scrobbles</summary><br/>
