@@ -52,6 +52,8 @@
   <li>⌨️ Coding is not a job, it's a way of life</li>
 </ul>
 
+<img src="assets/line.png" />
+
 <details>
   <summary>📊 GitHub Stats</summary><br/>
   <p>
