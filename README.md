@@ -38,11 +38,13 @@
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 </p>
 
-<h3>📊 GitHub Stats</h3>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=belomaxorka&show_icons=true&theme=dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=belomaxorka&theme=dark" />
-</p>
+<details>
+  <summary>📊 GitHub Stats</summary><br/>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=belomaxorka&show_icons=true&theme=dark" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=belomaxorka&theme=dark" />
+  </p>
+</details>
 
 <details>
   <summary>🏆 GitHub Trophies</summary><br/>
