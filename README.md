@@ -31,7 +31,28 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-[![belomaxorka's GitHub stats](https://github-readme-stats.vercel.app/api?username=belomaxorka&theme=buefy)](https://github.com/belomaxorka)
+<h3>📚 Currently Learning</h3>
+<p>
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+</p>
+
+<h3>📊 GitHub Stats</h3>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=belomaxorka&show_icons=true&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=belomaxorka&theme=dark" />
+</p>
+
+<h3>🏆 GitHub Trophies</h3>
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=belomaxorka&theme=darkhub&row=1" />
+</p>
+
+<h3>📈 Contribution Graph</h3>
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=belomaxorka&theme=github-dark" />
+</p>
 
 <details>
   <summary>🎶 Last.fm Scrobbles</summary><br/>
