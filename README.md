@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Caddy-FFD700?style=flat-square&logo=caddy&logoColor=black" />
   <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/-GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
   <img src="https://img.shields.io/badge/-PHPUnit-3776AB?style=flat-square" />
