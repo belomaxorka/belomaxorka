@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/-Meilisearch-FF6B35?style=flat-square&logo=meilisearch&logoColor=white" />
   <img src="https://img.shields.io/badge/-Manticore-2B5380?style=flat-square" />
   <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/-WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white" />
