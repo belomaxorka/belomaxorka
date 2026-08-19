@@ -1,5 +1,23 @@
-<h2>Hey 👋, I'm <a href="https://belomaxorka.github.io/">belomaxorka</a></h2>
-<p>I'm a full-stack web developer and DevOps enthusiast. I actively contribute to open source projects and maintain <strong><a href="https://github.com/torrentpier/torrentpier">TorrentPier</a></strong>. I love exploring new technologies and find genuine inspiration in programming.</p>
+<h2>Hey 👋, I'm <a href="https://belomaxorka.github.io/">Roman Kelesidis</a></h2>
+<p>I'm a full-stack developer and DevOps engineer focused on building maintainable web applications, modernizing long-lived codebases, and making delivery predictable through automation.</p>
+
+<h3>🧭 What I do</h3>
+<ul>
+  <li><strong>Backend:</strong> designing PHP and Laravel applications with clear architecture, reliable data flows, and maintainable business logic</li>
+  <li><strong>Frontend:</strong> building product interfaces with Vue.js, Inertia.js, Alpine.js, and the JavaScript/TypeScript ecosystem</li>
+  <li><strong>Infrastructure:</strong> working with Docker, Linux, web servers, CI/CD pipelines, databases, caches, queues, and search services</li>
+  <li><strong>Open source:</strong> creating self-hosted software, improving mature projects, and sharing practical tools with the community</li>
+</ul>
+
+<h3>🚀 Selected work</h3>
+<ul>
+  <li>
+    <strong><a href="https://github.com/belomaxorka/mantra">Mantra CMS</a></strong> — a modern flat-file PHP CMS that runs without a database or external production dependencies. It includes modular architecture, JSON/Markdown storage, an admin panel, themes, and role-based access control.
+  </li>
+  <li>
+    <strong><a href="https://github.com/torrentpier/torrentpier">TorrentPier</a></strong> — I spent several years contributing to and maintaining this BitTorrent tracker engine. The project reached its final Ox release and was archived in May 2026; its code and <a href="https://ox.torrentpier.com/">community archive</a> remain available.
+  </li>
+</ul>
 
 <h3>💻 Technologies I work with</h3>
 <p>
@@ -40,26 +58,12 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-<h3>📚 Currently Learning</h3>
+<h3>📚 Currently exploring</h3>
 <p>
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 </p>
-
-<h3>🔭 What I'm working on</h3>
-<ul>
-  <li>Building scalable web applications with Laravel + Inertia.js + Vue.js ❤️</li>
-  <li>Maintaining TorrentPier and enhancing its architecture</li>
-</ul>
-
-<h3>⚡ Fun Facts</h3>
-<ul>
-  <li>💻 5 years in web development</li>
-  <li>😜 Vibe coding enthusiast</li>
-  <li>☕ Powered by tea</li>
-  <li>⌨️ Coding is not a job, it's a way of life</li>
-</ul>
 
 <img src="assets/line.png" />
 
