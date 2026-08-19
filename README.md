@@ -66,14 +66,14 @@
 <details>
   <summary>📊 GitHub Stats</summary><br/>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=belomaxorka&show_icons=true&theme=dark" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=belomaxorka&theme=dark" />
+    <img src="https://github-stats-extended.vercel.app/api?username=belomaxorka&show_icons=true&theme=dark" />
+    <img src="https://streak-stats.demolab.com/?user=belomaxorka&theme=dark" />
   </p>
 </details>
 
 <details>
   <summary>🏆 GitHub Trophies</summary><br/>
-  <p><img src="https://github-profile-trophy.vercel.app/?username=belomaxorka&theme=darkhub&row=1" /></p>
+  <p><img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=belomaxorka&theme=darkhub&row=1" /></p>
 </details>
 
 <details>
