@@ -67,7 +67,7 @@
   <summary>📊 GitHub Stats</summary><br/>
   <p>
     <img src="https://github-stats-extended.vercel.app/api?username=belomaxorka&show_icons=true&theme=dark" />
-    <img src="https://streak-stats.demolab.com/?user=belomaxorka&theme=dark" />
+    <img src="https://streak-stats.demolab.com?user=belomaxorka&theme=dark&locale=en" />
   </p>
 </details>
 
