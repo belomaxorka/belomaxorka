@@ -9,16 +9,6 @@
   <li><strong>Open source:</strong> creating self-hosted software, improving mature projects, and sharing practical tools with the community</li>
 </ul>
 
-<h3>🚀 Selected work</h3>
-<ul>
-  <li>
-    <strong><a href="https://github.com/belomaxorka/mantra">Mantra CMS</a></strong> — a modern flat-file PHP CMS that runs without a database or external production dependencies. It includes modular architecture, JSON/Markdown storage, an admin panel, themes, and role-based access control.
-  </li>
-  <li>
-    <strong><a href="https://github.com/torrentpier/torrentpier">TorrentPier</a></strong> — I spent several years contributing to and maintaining this BitTorrent tracker engine. The project reached its final Ox release and was archived in May 2026; its code and <a href="https://ox.torrentpier.com/">community archive</a> remain available.
-  </li>
-</ul>
-
 <h3>💻 Technologies I work with</h3>
 <p>
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
