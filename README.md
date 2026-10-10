@@ -1,4 +1,4 @@
-<h2>Hey 👋, I'm <a href="https://belomaxorka.github.io/">Roman Kelesidis</a></h2>
+<h2>Hey 👋, I'm <a href="https://belomaxorka.dev">Roman Kelesidis</a></h2>
 <p>I'm a full-stack developer and DevOps engineer focused on building maintainable web applications, modernizing long-lived codebases, and making delivery predictable through automation.</p>
 
 <h3>🧭 What I do</h3>
