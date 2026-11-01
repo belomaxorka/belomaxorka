@@ -1,6 +1,6 @@
 ### Roman Kelesidis
 
-Full-stack web developer and DevOps engineer from Greece. Mostly PHP and Laravel on the backend, Vue on the frontend,
+Full-stack web developer and DevOps engineer. Mostly PHP and Laravel on the backend, Vue on the frontend,
 Linux and Docker underneath.
 
 **Backend:** PHP, Laravel, Livewire, Go, Python · MySQL, PostgreSQL, SQLite, Redis, RabbitMQ, Meilisearch, Manticore<br>
