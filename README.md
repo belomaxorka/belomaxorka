@@ -20,8 +20,15 @@ Linux and Docker underneath.
     <img alt="Coding time in the last 7 days" src="https://belomaxorka.dev/readme/code" width="720">
   </picture>
 </a>
+<a href="https://belomaxorka.dev">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://belomaxorka.dev/readme/tokens?theme=light">
+    <img alt="Tokens burned with Claude Code" src="https://belomaxorka.dev/readme/tokens" width="720">
+  </picture>
+</a>
 
-[belomaxorka.dev](https://belomaxorka.dev) · [Forgejo](https://git.belomaxorka.dev/belomaxorka) · [Telegram](https://t.me/belomaxorka) · [Email](mailto:ascouted@gmail.com)
+**Web:** [belomaxorka.dev](https://belomaxorka.dev) · [Forgejo](https://git.belomaxorka.dev/belomaxorka)<br>
+**Contacts:** [Telegram](https://t.me/belomaxorka) · [ascouted@gmail.com](mailto:ascouted@gmail.com) · Discord `belomaxorka` · [Steam](https://steamcommunity.com/id/wour/)
 
 <a href="https://belomaxorka.dev"><img src="https://belomaxorka.dev/88x31/rack.gif" width="88" height="31" alt="belomaxorka · rack"></a>
 <a href="https://belomaxorka.dev"><img src="https://belomaxorka.dev/88x31/lcd.gif" width="88" height="31" alt="belomaxorka · lcd"></a>
