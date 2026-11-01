@@ -9,26 +9,10 @@ scrobbler, and monitoring, is self-hosted in my homelab.
 **Infrastructure:** Linux, Docker, Proxmox, Nginx, Caddy · GitHub Actions, GitLab CI<br>
 **Now learning:** Kubernetes, more Go
 
-#### Projects
-
-| | |
-|---|---|
-| [**TorrentPier**](https://github.com/torrentpier/torrentpier) | BitTorrent tracker engine written in PHP |
-| [**YAOPL**](https://github.com/yaopl/yaopl) | Fork of Open PS2 Loader that continues its development |
-| [**belomaxorka.dev**](https://belomaxorka.dev) | Personal site styled as a server rack, with live data from the homelab |
-| [**site-api**](https://git.belomaxorka.dev/belomaxorka/site-api) | Go backend for the site. It also renders the cards below |
-| [**get.torrentpier.dev**](https://get.torrentpier.dev) | Download center with verified TorrentPier builds |
-
 <a href="https://fm.belomaxorka.dev">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://belomaxorka.dev/readme/music?theme=light">
     <img alt="What I'm listening to" src="https://belomaxorka.dev/readme/music" width="720">
-  </picture>
-</a>
-<a href="https://github.com/belomaxorka">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://belomaxorka.dev/readme/activity?theme=light">
-    <img alt="Contributions in the last year" src="https://belomaxorka.dev/readme/activity" width="720">
   </picture>
 </a>
 
