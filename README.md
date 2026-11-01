@@ -8,6 +8,8 @@ Linux and Docker underneath.
 **Infrastructure:** Linux, Docker, Proxmox, Nginx, Caddy · GitHub Actions, GitLab CI<br>
 **Now learning:** Kubernetes, more Go
 
+---
+
 <a href="https://fm.belomaxorka.dev">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://belomaxorka.dev/readme/music?theme=light">
@@ -28,7 +30,7 @@ Linux and Docker underneath.
 </a>
 
 **Web:** [belomaxorka.dev](https://belomaxorka.dev) · [Forgejo](https://git.belomaxorka.dev/belomaxorka)<br>
-**Contacts:** [Telegram](https://t.me/belomaxorka) · [ascouted@gmail.com](mailto:ascouted@gmail.com) · Discord `belomaxorka` · [Steam](https://steamcommunity.com/id/wour/)
+**Contacts:** [Telegram](https://t.me/belomaxorka) · [ascouted@gmail.com](mailto:ascouted@gmail.com) · Discord `belomaxorka`
 
 <a href="https://belomaxorka.dev"><img src="https://belomaxorka.dev/88x31/rack.gif" width="88" height="31" alt="belomaxorka · rack"></a>
 <a href="https://belomaxorka.dev"><img src="https://belomaxorka.dev/88x31/lcd.gif" width="88" height="31" alt="belomaxorka · lcd"></a>
