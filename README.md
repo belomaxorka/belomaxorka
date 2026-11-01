@@ -21,14 +21,14 @@ scrobbler, and monitoring, is self-hosted in my homelab.
 
 <a href="https://fm.belomaxorka.dev">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://belomaxorka.dev/readme/music.svg?theme=light">
-    <img alt="What I'm listening to" src="https://belomaxorka.dev/readme/music.svg" width="720">
+    <source media="(prefers-color-scheme: light)" srcset="https://belomaxorka.dev/readme/music?theme=light">
+    <img alt="What I'm listening to" src="https://belomaxorka.dev/readme/music" width="720">
   </picture>
 </a>
 <a href="https://github.com/belomaxorka">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://belomaxorka.dev/readme/activity.svg?theme=light">
-    <img alt="Contributions in the last year" src="https://belomaxorka.dev/readme/activity.svg" width="720">
+    <source media="(prefers-color-scheme: light)" srcset="https://belomaxorka.dev/readme/activity?theme=light">
+    <img alt="Contributions in the last year" src="https://belomaxorka.dev/readme/activity" width="720">
   </picture>
 </a>
 
