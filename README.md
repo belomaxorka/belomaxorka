@@ -1,82 +1,35 @@
-<h2>Hey 👋, I'm <a href="https://belomaxorka.dev">Roman Kelesidis</a></h2>
-<p>I'm a full-stack developer and DevOps engineer focused on building maintainable web applications, modernizing long-lived codebases, and making delivery predictable through automation.</p>
+### Roman Kelesidis
 
-<h3>🧭 What I do</h3>
-<ul>
-  <li><strong>Backend:</strong> designing PHP and Laravel applications with clear architecture, reliable data flows, and maintainable business logic</li>
-  <li><strong>Frontend:</strong> building product interfaces with Vue.js, Inertia.js, Alpine.js, and the JavaScript/TypeScript ecosystem</li>
-  <li><strong>Infrastructure:</strong> working with Docker, Linux, web servers, CI/CD pipelines, databases, caches, queues, and search services</li>
-  <li><strong>Open source:</strong> creating self-hosted software, improving mature projects, and sharing practical tools with the community</li>
-</ul>
+Full-stack web developer and DevOps engineer from Greece. I build maintainable web applications, modernize long-lived
+codebases, and automate delivery so releases stay predictable. Most of what I run, including the git server, music
+scrobbler, and monitoring, is self-hosted in my homelab.
 
-<h3>💻 Technologies I work with</h3>
-<p>
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Composer-885630?style=flat-square&logo=composer&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-pip-3776AB?style=flat-square&logo=pypi&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Livewire-FB70A9?style=flat-square&logo=livewire&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Meilisearch-FF6B35?style=flat-square&logo=meilisearch&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Manticore-2B5380?style=flat-square" />
-  <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
-  <img src="https://img.shields.io/badge/-WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Caddy-FFD700?style=flat-square&logo=caddy&logoColor=black" />
-  <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PHPUnit-3776AB?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Pest-FF5722?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
+**Backend:** PHP, Laravel, Livewire, Go, Python · MySQL, PostgreSQL, SQLite, Redis, RabbitMQ, Meilisearch, Manticore<br>
+**Frontend:** TypeScript, Vue.js, Inertia.js, Alpine.js, React · Tailwind CSS, Vite<br>
+**Infrastructure:** Linux, Docker, Proxmox, Nginx, Caddy · GitHub Actions, GitLab CI<br>
+**Now learning:** Kubernetes, more Go
 
-<h3>📚 Currently exploring</h3>
-<p>
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-</p>
+#### Projects
 
-<img src="assets/line.png" />
+| | |
+|---|---|
+| [**TorrentPier**](https://github.com/torrentpier/torrentpier) | BitTorrent tracker engine written in PHP |
+| [**YAOPL**](https://github.com/yaopl/yaopl) | Fork of Open PS2 Loader that continues its development |
+| [**belomaxorka.dev**](https://belomaxorka.dev) | Personal site styled as a server rack, with live data from the homelab |
+| [**site-api**](https://git.belomaxorka.dev/belomaxorka/site-api) | Go backend for the site. It also renders the cards below |
+| [**get.torrentpier.dev**](https://get.torrentpier.dev) | Download center with verified TorrentPier builds |
 
-<details>
-  <summary>📊 GitHub Stats</summary><br/>
-  <p>
-    <img src="https://github-stats-extended.vercel.app/api?username=belomaxorka&show_icons=true&theme=dark" />
-    <img src="https://streak-stats.demolab.com?user=belomaxorka&theme=dark&locale=en" />
-  </p>
-</details>
+<a href="https://fm.belomaxorka.dev">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://belomaxorka.dev/readme/music.svg?theme=light">
+    <img alt="What I'm listening to" src="https://belomaxorka.dev/readme/music.svg" width="720">
+  </picture>
+</a>
+<a href="https://github.com/belomaxorka">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://belomaxorka.dev/readme/activity.svg?theme=light">
+    <img alt="Contributions in the last year" src="https://belomaxorka.dev/readme/activity.svg" width="720">
+  </picture>
+</a>
 
-<details>
-  <summary>🏆 GitHub Trophies</summary><br/>
-  <p><img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=belomaxorka&theme=darkhub&row=1" /></p>
-</details>
-
-<details>
-  <summary>📈 Contribution Graph</summary><br/>
-  <p><img src="https://github-readme-activity-graph.vercel.app/graph?username=belomaxorka&theme=github-dark" /></p>
-</details>
-
-<details>
-  <summary>🎶 Last.fm Scrobbles</summary><br/>
-
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=belomaxorka&show_user=header&count=3&footer_style=normal_stats)
-</details>
+[belomaxorka.dev](https://belomaxorka.dev) · [Forgejo](https://git.belomaxorka.dev/belomaxorka) · [Telegram](https://t.me/belomaxorka) · [Email](mailto:ascouted@gmail.com)
