@@ -1,8 +1,7 @@
 ### Roman Kelesidis
 
-Full-stack web developer and DevOps engineer from Greece. I build maintainable web applications, modernize long-lived
-codebases, and automate delivery so releases stay predictable. Most of what I run, including the git server, music
-scrobbler, and monitoring, is self-hosted in my homelab.
+Full-stack web developer and DevOps engineer from Greece. Mostly PHP and Laravel on the backend, Vue on the frontend,
+Linux and Docker underneath.
 
 **Backend:** PHP, Laravel, Livewire, Go, Python · MySQL, PostgreSQL, SQLite, Redis, RabbitMQ, Meilisearch, Manticore<br>
 **Frontend:** TypeScript, Vue.js, Inertia.js, Alpine.js, React · Tailwind CSS, Vite<br>
