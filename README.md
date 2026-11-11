@@ -1,21 +1,31 @@
 ### Roman Kelesidis
 
-Full-stack web developer and DevOps engineer. Mostly PHP and Laravel on the backend, Vue on the frontend,
-Linux and Docker underneath.
+Full-stack PHP developer with a DevOps background. I build web applications end to end:
+backend, frontend, servers and deploys, and keep them running after launch.
+
+Ex-maintainer of [TorrentPier](https://github.com/torrentpier/torrentpier), an open-source BitTorrent tracker engine in PHP.
+
+**What I do**
+- Web applications on Laravel: APIs, admin panels, queues and background jobs, full-text search
+- Frontends in Vue and TypeScript, wired to Laravel through Inertia
+- Legacy PHP: upgrade old projects to modern PHP, refactor them, move them and their data to Laravel
+- Delivery: Linux servers, Docker, Nginx, CI/CD pipelines, monitoring and backups
 
 **Backend:** PHP, Laravel, Livewire, Go, Python · MySQL, PostgreSQL, SQLite, Redis, RabbitMQ, Meilisearch, Manticore<br>
 **Frontend:** TypeScript, Vue.js, Inertia.js, Alpine.js, React · Tailwind CSS, Vite<br>
-**Infrastructure:** Linux, Docker, Proxmox, Nginx, Caddy · GitHub Actions, GitLab CI<br>
-**Now learning:** Kubernetes, more Go
+**Infrastructure:** Linux, Docker, Nginx, Caddy · GitHub Actions, GitLab CI · Prometheus, Grafana
 
 ---
 
-<a href="https://fm.belomaxorka.dev">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://belomaxorka.dev/readme/music?theme=light">
-    <img alt="What I'm listening to" src="https://belomaxorka.dev/readme/music" width="720">
-  </picture>
-</a>
+**Web:** [belomaxorka.dev](https://belomaxorka.dev) · [Forgejo](https://git.belomaxorka.dev/belomaxorka)<br>
+**Contacts:** [Telegram](https://t.me/belomaxorka) · [ascouted@gmail.com](mailto:ascouted@gmail.com) · Discord `belomaxorka`
+
+<a href="https://belomaxorka.dev"><img src="https://belomaxorka.dev/88x31/rack.gif" width="88" height="31" alt="belomaxorka · rack"></a>
+<a href="https://belomaxorka.dev"><img src="https://belomaxorka.dev/88x31/terminal.gif" width="88" height="31" alt="belomaxorka · whoami"></a>
+
+<details>
+<summary>Coding time and Claude Code tokens</summary>
+<br>
 <a href="https://belomaxorka.dev">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://belomaxorka.dev/readme/code?theme=light">
@@ -28,20 +38,23 @@ Linux and Docker underneath.
     <img alt="Tokens burned with Claude Code" src="https://belomaxorka.dev/readme/tokens" width="720">
   </picture>
 </a>
+</details>
 
-**Web:** [belomaxorka.dev](https://belomaxorka.dev) · [Forgejo](https://git.belomaxorka.dev/belomaxorka)<br>
-**Contacts:** [Telegram](https://t.me/belomaxorka) · [ascouted@gmail.com](mailto:ascouted@gmail.com) · Discord `belomaxorka`
-
-<a href="https://belomaxorka.dev"><img src="https://belomaxorka.dev/88x31/rack.gif" width="88" height="31" alt="belomaxorka · rack"></a>
-<a href="https://belomaxorka.dev"><img src="https://belomaxorka.dev/88x31/lcd.gif" width="88" height="31" alt="belomaxorka · lcd"></a>
-<a href="https://belomaxorka.dev"><img src="https://belomaxorka.dev/88x31/patch.gif" width="88" height="31" alt="belomaxorka · link up"></a>
-<a href="https://belomaxorka.dev"><img src="https://belomaxorka.dev/88x31/terminal.gif" width="88" height="31" alt="belomaxorka · whoami"></a>
-<a href="https://belomaxorka.dev"><img src="https://belomaxorka.dev/88x31/rainbow-bolt.gif" width="88" height="31" alt="belomaxorka · 20% cooler"></a>
+<details>
+<summary>What I'm listening to</summary>
+<br>
+<a href="https://fm.belomaxorka.dev">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://belomaxorka.dev/readme/music?theme=light">
+    <img alt="What I'm listening to" src="https://belomaxorka.dev/readme/music" width="720">
+  </picture>
+</a>
+</details>
 
 <details>
 <summary>Link to me with a button</summary>
 
-Pick a button above and paste its code into your site. Swap `rack.gif` for `lcd.gif`, `patch.gif`, `terminal.gif` or `rainbow-bolt.gif` to use another one.
+Paste this into your site. Swap `rack.gif` for `terminal.gif`, `lcd.gif`, `patch.gif` or `rainbow-bolt.gif` to use another one.
 
 ```html
 <a href="https://belomaxorka.dev"><img src="https://belomaxorka.dev/88x31/rack.gif" width="88" height="31" alt="belomaxorka"></a>
